@@ -2,6 +2,7 @@
 /**
  * Elgg Search css
  * 
+ * @override mod/search/views/default/search/css.php
  */
 ?>
 

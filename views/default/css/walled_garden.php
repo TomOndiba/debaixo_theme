@@ -1,6 +1,8 @@
 <?php
 /**
  * Walled garden CSS
+ * 
+ * @override views/default/css/walled_garden.php
  */
 
 $url = elgg_get_site_url();

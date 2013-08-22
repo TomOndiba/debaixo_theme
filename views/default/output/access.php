@@ -4,6 +4,8 @@
  * Requires an entity because some special logic for containers is used.
  *
  * @uses int $vars['entity'] - The entity whose access ID to display.
+ * 
+ * @override views/default/output/access.php
  */
 
 //sort out the access level for display

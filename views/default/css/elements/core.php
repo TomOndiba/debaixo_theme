@@ -12,6 +12,8 @@
  *   * inline-block
  *   * horizontal menus
  *   * fluid gallery without using tables
+ * 
+ * @override views/default/css/elements/core.php
  */
 ?>
 

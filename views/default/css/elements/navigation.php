@@ -4,6 +4,7 @@
  *
  * @package Elgg.Core
  * @subpackage UI
+ * @override views/default/css/elements/navigation.php
  */
 ?>
 

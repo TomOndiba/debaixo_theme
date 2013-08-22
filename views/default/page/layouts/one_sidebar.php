@@ -10,6 +10,8 @@
  * @uses $vars['title']   Optional title for main content area
  * @uses $vars['class']   Additional class to apply to layout
  * @uses $vars['nav']     HTML of the page nav (override) (default: breadcrumbs)
+ * 
+ * @override views/default/page/elements/layouts/one_sidebar.php
  */
 
 $class = 'elgg-layout elgg-layout-one-sidebar clearfix';

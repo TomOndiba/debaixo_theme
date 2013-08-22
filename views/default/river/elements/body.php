@@ -7,6 +7,8 @@
  * @uses $vars['message']     Optional message (usually excerpt of text)
  * @uses $vars['attachments'] Optional attachments (displaying icons or other non-text data)
  * @uses $vars['responses']   Alternate respones (comments, replies, etc.)
+ * 
+ * @override views/default/river/elements/body.php
  */
 
 $item = $vars['item'];

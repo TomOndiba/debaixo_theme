@@ -4,6 +4,8 @@
  *
  * @package Elgg.Core
  * @subpackage UI
+ * 
+ * @override views/default/css/elgg.php
  */
 
 /* 

@@ -1,5 +1,7 @@
 /**
  * CSS for IE7
+ *
+ * @override views/default/css/ie7.php
  */
 
 /* trigger hasLayout in IE */

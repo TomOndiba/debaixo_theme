@@ -1,5 +1,7 @@
 /**
  * CSS for IE6
+ *
+ * @override views/default/css/ie6.php
  */
 
 * {zoom: 1;} /* trigger hasLayout in IE */

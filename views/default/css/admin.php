@@ -7,6 +7,8 @@
  *
  * @package Elgg.Core
  * @subpackage UI
+ * 
+ * @override views/default/css/admin.php
  */
 
 ?>
