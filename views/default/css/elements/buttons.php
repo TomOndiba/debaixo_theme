@@ -39,7 +39,6 @@
 	background: -ms-linear-gradient(top, #eeeeee 0%,#cccccc 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%); /* W3C */
 }
-
 .elgg-button:hover {
 	background: #dbdbdb; /* Old browsers */
 	background: -moz-linear-gradient(top, #dbdbdb 0%, #b7b7b7 100%); /* FF3.6+ */
@@ -49,7 +48,6 @@
 	background: -ms-linear-gradient(top, #dbdbdb 0%,#b7b7b7 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #dbdbdb 0%,#b7b7b7 100%); /* W3C */
 }
-	
 
 a.elgg-button {
 	text-decoration: none;
@@ -92,17 +90,12 @@ a.elgg-button {
 	cursor: default;
 }
 
-
 /* Cancel: This button should convey a negative but easily reversible action (e.g., turning off a plugin) */
 .elgg-button-cancel {
 	color: #888;
-	
-	
-	
 }
 .elgg-button-cancel:hover {
 	color: #BA1C1C;
-
 }
 
 /* Action: This button should convey a normal, inconsequential action, such as clicking a link */
@@ -121,7 +114,6 @@ a.elgg-button {
 	background: -ms-linear-gradient(top, #444444 0%,#000000 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #444444 0%,#000000 100%); /* W3C */
 }
-
 
 .elgg-button-action:hover,
 .elgg-button-action:focus {
@@ -159,11 +151,6 @@ a.elgg-button {
 	background: -ms-linear-gradient(top, #45484d 0%,#000000 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #45484d 0%,#000000 100%); /* W3C */
 }
-
-
-
-
-
 .elgg-button-delete:hover {
 	color: #d36900;
 
@@ -183,17 +170,12 @@ a.elgg-button {
 	text-shadow: 0 -1px 0px #111;
 	border: 1px solid #999;
 }
-
 .elgg-button-delete .elgg-state-disabled:hover {
 	color: #d36900;
 	background-color: #333;
 	text-shadow: 0 -1px 0px #111;
 	border: 1px solid #999;
 }
-
-
-
-
 .elgg-button-dropdown {
 	padding:3px 6px;
 	text-decoration:none;

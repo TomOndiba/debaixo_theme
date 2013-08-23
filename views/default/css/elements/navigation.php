@@ -14,9 +14,7 @@
 	margin: 10px 0;
 	display: block;
 	text-align: center;
-
 }
-
 .elgg-pagination li {
 	display: inline;
 	margin: 0 6px 0 0;
@@ -26,7 +24,7 @@
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
-	
+
 	padding: 2px 6px;
 	color: #555;
 	border: 1px solid #ccc;
@@ -125,7 +123,6 @@
 	color: #bababa;
 	margin: 8px 0px;
 }
-
 .elgg-breadcrumbs > li {
 	display: inline-block;
 }
@@ -198,7 +195,6 @@
 	margin-left: 8px;
 	padding-top: 1px;
 }
-
 
 /* ***************************************
 	SITE MENU
@@ -328,7 +324,7 @@
 	border-radius: 5px 5px 0 0;
 }
 .elgg-menu-filter > li:hover {
-	
+
 }
 .elgg-menu-filter > li > a {
 	text-decoration: none;

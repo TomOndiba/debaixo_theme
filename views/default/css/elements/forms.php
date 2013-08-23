@@ -37,7 +37,6 @@ fieldset.elgg-fieldset legend {
 
 fieldset > div {
 	margin-bottom: 15px;
-	
 }
 fieldset > div:last-child {
 	margin-bottom: 0;
@@ -66,11 +65,9 @@ input[type=text], input[type=password], textarea {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-
 	box-shadow: inset 0 2px 3px #999;
 }
 
