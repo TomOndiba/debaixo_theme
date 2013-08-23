@@ -90,14 +90,12 @@ code {
 }
 
 blockquote {
-	
 	line-height: 1.3em;
 	padding:10px 20px 10px 10px;
 	margin:5px 5px 15px 20px;
 	background: #E6D37E url(<?php echo elgg_get_site_url(); ?>mod/n1_theme/_graphics/quotes.png) no-repeat right;
 	border:none;
 	box-shadow: 0px 1px 3px #666;
-	
 	
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
@@ -130,7 +128,6 @@ h6 { font-size: 0.8em; }
 	float: left;
 	max-width: 530px;
 	margin-right: 10px;
-	
 }
 .elgg-heading-basic {
 	color: #616068;

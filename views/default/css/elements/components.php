@@ -28,7 +28,6 @@
 .elgg-subtext {
 	margin-top: 3px;
 }
-
 .elgg-subtext .elgg-tags {
 	font-size: 90%;
 	padding-top: 4px;	
@@ -60,8 +59,6 @@
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
-
-
 
 /* ***************************************
 	Gallery
@@ -126,16 +123,9 @@
 .elgg-owner-block {
 	margin-bottom: 20px;
 }
-
-.elgg-owner-block h3 {
-	
-}
 .elgg-owner-block .elgg-subtext {
 	padding: 2px 0 9px 0;
 }
-
-
-
 
 /* ***************************************
 	Messages
@@ -253,7 +243,6 @@
 
 .elgg-river-comments .elgg-output {
 	border: none;
-
 }
 
 .elgg-river-comments li:first-child {
@@ -319,7 +308,6 @@
 	font-weight: bold;
 	margin-bottom: 5px;
 }
-
 .elgg-comments li.elgg-item {
 	padding: 10px 0;
 }
