@@ -10,27 +10,27 @@
 Search plugin
 ***********************************/
 .elgg-search-header {
-	bottom: 15px;
 	width: 24%;
-	height: 23px;
 	position: absolute;
 	right: 0;
-}
-.elgg-search input[type=text] {
-	width: 230px;
-	
+    bottom: 10px;
+    margin-top: 0;
 }
 .elgg-search input[type=submit] {
 	display: none;
 }
-.elgg-search input[type=text] {
-	height: 20px;
-	width: 97%;
+.elgg-search input[type=text], .elgg-search input[type=search] {
 	margin-top: 13px;
 	border: 0;
-	background: #EEE url(<?php echo elgg_get_site_url(); ?>_graphics/elgg_sprites.png) no-repeat 99% -916px;
+	background: black url(<?php echo elgg_get_site_url(); ?>_graphics/elgg_sprites.png) no-repeat 5px -915px;
+    color: #EEE;
+    border-color: #666;
+    border-radius: 10px;
+    padding-bottom: 2px;
+    padding-left: 25px;
+    padding-top: 2px;
 	font-size: 1em;
-	
+	width: 260px;
 }
 
 .search-list li {
