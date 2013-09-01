@@ -22,15 +22,14 @@ Search plugin
 .elgg-search input[type=text], .elgg-search input[type=search] {
 	margin-top: 13px;
 	border: 0;
-	background: black url(<?php echo elgg_get_site_url(); ?>_graphics/elgg_sprites.png) no-repeat 5px -915px;
+	background: #333 url(<?php echo elgg_get_site_url(); ?>_graphics/elgg_sprites.png) no-repeat 5px -915px;
     color: #EEE;
-    border-color: #666;
-    border-radius: 10px;
     padding-bottom: 2px;
     padding-left: 25px;
     padding-top: 2px;
 	font-size: 1em;
-	width: 260px;
+	width: 235px;
+	box-shadow: none;
 }
 
 .search-list li {
