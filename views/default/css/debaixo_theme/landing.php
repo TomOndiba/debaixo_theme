@@ -10,7 +10,7 @@
 #debaixo-landing-inner {
 	display: table-cell;
 	vertical-align: middle;
-	padding-left: 220px;
+	padding-left: 430px;
 
 }
 
