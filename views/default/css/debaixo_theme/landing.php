@@ -4,7 +4,7 @@
 	background-repeat: no-repeat;
 	display: table;
 	margin: 30px 0 50px auto;
-	min-width: 80%;
+	min-width: 90%;
 }
 
 #debaixo-landing-inner {
