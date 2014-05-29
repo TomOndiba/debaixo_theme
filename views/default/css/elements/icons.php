@@ -14,7 +14,7 @@
 *************************************** */
 
 .elgg-icon, .elgg-menu-item-logout a {
-	background: transparent url(<?php echo elgg_get_site_url(); ?>mod/n1_theme/_graphics/elgg_sprites.png) no-repeat left;
+	background: transparent url(<?php echo elgg_get_site_url(); ?>mod/debaixo_theme/_graphics/elgg_sprites.png) no-repeat left;
 	width: 16px;
 	height: 16px;
 	margin: 0 2px;
@@ -309,7 +309,7 @@
 }
 
 .elgg-ajax-loader {
-	background: transparent url(<?php echo elgg_get_site_url(); ?>mod/n1_theme/_graphics/ajax-loader.gif) no-repeat center center;
+	background: transparent url(<?php echo elgg_get_site_url(); ?>mod/debaixo_theme/_graphics/ajax-loader.gif) no-repeat center center;
 	min-height: 31px;
 	min-width: 31px;
 }

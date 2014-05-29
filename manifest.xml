@@ -38,4 +38,8 @@
 		<priority>after</priority>
 		<plugin>thewire</plugin>
 	</requires>
+	<requires>
+		<type>conflict</type>
+		<plugin>n1_theme</plugin>
+	</requires>
 </plugin_manifest>
